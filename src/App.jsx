@@ -1,5 +1,14 @@
+import Display from "./komponenten/display";
+
+
+
 function App() {
-  return <h1>Hello React!</h1>;
+  return (
+
+    <Display />
+
+
+  );
 }
  
 export default App;
